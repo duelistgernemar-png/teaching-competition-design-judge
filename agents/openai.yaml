@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "教学比赛·教学设计专项评委"
+  short_description: "只按教学比赛教学设计标准模拟评分，并给出分学段学科修改建议。"
+  default_prompt: "Use $teaching-competition-design-judge to evaluate my teaching-competition teaching design only, score it against the official teaching-design rubric, and give subject-specific revision advice."
+
+policy:
+  allow_implicit_invocation: true
