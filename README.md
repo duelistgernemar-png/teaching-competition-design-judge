@@ -1,6 +1,6 @@
 # Teaching Competition Design Judge Skill
 
-一个面向中小学教学比赛“教学设计”文本的 Codex skill。它只评价教学设计材料本身，不根据课堂实录、课堂表现或教学反思做推断性打分。
+一个面向中小学教学比赛“教学设计”文本的  skill。它只评价教学设计材料本身，不根据课堂实录、课堂表现或教学反思做推断性打分。
 
 ## What It Does
 
