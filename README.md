@@ -69,6 +69,15 @@ Each subject-stage mode translates the general rubric into discipline-specific r
 Use $teaching-competition-design-judge to evaluate this Chinese K-12 lesson design. Score only the lesson design, audit the teaching process activity by activity, and give concrete revision text in Chinese.
 ```
 
+For agents that can read GitHub repositories, paste the repository URL and ask the agent to read `AGENTS.md` first:
+
+```text
+Please use this GitHub repository as your review rule set:
+https://github.com/duelistgernemar-png/teaching-competition-design-judge
+
+Read AGENTS.md and SKILL.md first, then evaluate my lesson-design document. Identify the subject and stage, score only the teaching-design evidence, audit the teaching process activity by activity, and give concrete revision text in Chinese.
+```
+
 ## Installation
 
 Clone this repository into your Codex skills directory or any skill path that your Codex setup loads:
