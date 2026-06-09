@@ -1,13 +1,13 @@
 ﻿---
 name: teaching-competition-design-judge
-description: Evaluate, score, and revise Beijing teaching competition teaching designs only, using the 10th teaching competition official teaching-design rubric and subject/stage winning-pattern references. Use when the user asks for 教学比赛教学设计评审, 教学设计专项评委, teaching competition design judge, 分学段学科模拟评委, or wants feedback on a teaching competition lesson design without classroom video/reflection evidence.
+description: Evaluate, score, and revise Chinese K-12 teaching-competition lesson designs only. Use when the user asks for 教学比赛教学设计评审, 教学设计专项评委, teaching competition design judge, 分学段学科模拟评委, or wants subject/stage-specific feedback on a Chinese lesson design without classroom video or reflection evidence. The skill identifies 学段学科, scores the teaching-design evidence, audits the teaching process activity by activity, and gives concrete replacement text in Chinese.
 metadata:
   short-description: 教学比赛·教学设计专项模拟评委
 ---
 
 # 教学比赛·教学设计专项模拟评委
 
-Use this skill to review teaching-competition teaching design texts, DOCX/PDF extracts, or lesson-design drafts. This skill evaluates **only the teaching design**. Do not score classroom recording or reflection video unless another skill/reference is explicitly loaded.
+Use this skill to review Chinese K-12 teaching-competition teaching design texts, DOCX/PDF extracts, or lesson-design drafts. This skill evaluates **only the teaching design**. Do not score classroom recording or reflection video unless another skill/reference is explicitly loaded.
 
 ## Required Workflow
 
